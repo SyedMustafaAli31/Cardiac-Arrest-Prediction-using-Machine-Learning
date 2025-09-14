@@ -34,7 +34,4 @@ XGBoost
 🎯 Key Learnings
 Importance of feature scaling in distance-based models like KNN and SVM.
 How different algorithms perform on the same dataset.
-
 Practical experience in building a real-world ML pipeline.
-
-👉 Pro tip: Add a results table (model vs accuracy) a
